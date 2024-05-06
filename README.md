@@ -1,4 +1,3 @@
-<!doctype html>
 <html>
 <head>
 <meta charset="utf-8">
@@ -263,33 +262,13 @@ b {
 		</div>
 		<div class="khung">
 		<img src="img/china.jpg" alt="" class="img-100">
-		<h1 class="ten-sanpham"> Tour Úc Bịp 5N4D</h1>
+		<h1 class="ten-sanpham"> Tour Australia 5N4D</h1>
 			
 	
 			<h3 class="">Giá Thuê: 35.000.000 VND</h3>
 		
 		</div>
-		<div class="container">
-		<h1 class="text-xanh"><u>Liên hệ</u></h1>
-		<div class="d-flex">
-			<div class="w-30">
-			
-			<form action="#">
-				<input type="text" placeholder="Họ và tên" class="form-control">
-				<input type="tel" placeholder="Phone" class="form-control">
-				<input type="email" placeholder="Email" class="form-control">
-				<input type="text" placeholder="Địa chỉ" class="form-control">
-				<textarea placeholder="Nội dung" class="form-control" style="height: 120px"></textarea>
-				<button type="submit" class="Gui">Gửi thông tin</button>
-				
-				</form>
-			</div>
-		<div class="w-70">
-			<div class="vien-xam">
-			<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3919.1164633187645!2d106.67321997589123!3d10.802391258712479!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31752927f1637d9b%3A0x6736e47c037cff1a!2zNDNSLzEyIEjhu5MgVsSDbiBIdcOqLCBQaMaw4budbmcgOSwgUGjDuiBOaHXhuq1uLCBUaMOgbmggcGjhu5EgSOG7kyBDaMOtIE1pbmgsIFZp4buHdCBOYW0!5e0!3m2!1svi!2s!4v1714625522236!5m2!1svi!2s" width="100%" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-				<h4>Văn phòng chính</h4>
-				<p><b>Địa chỉ:</b> 43R/12 Hồ Văn Huê Q.Phú Nhuận</p>
-				<p><b>Tel:</b> 096969696969</p>
+		
 				</div>
 			</div>
 			
